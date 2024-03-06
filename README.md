@@ -9,7 +9,8 @@
 <a href="https://www.instagram.com/jimtom592_">
   <img align="center" alt="Falguni @Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
-🐟 **主页：**<a href="https://2404589803.github.io/My-blog/" target="_blank">我的博客</a>
+📰**主页：**<a href="https://2404589803.github.io/" target="_blank">junfeng xiao</a>
+🐟 **博客：**<a href="https://2404589803.github.io/My-blog/" target="_blank">我的博客</a>
 </h1>
 
 <p align="center">
