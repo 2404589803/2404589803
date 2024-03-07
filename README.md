@@ -12,10 +12,7 @@
 📰**学术主页(academic homepage)：**`<a href="https://junfeng-xiao.vercel.app/" target="_blank">`junfeng xiao `</a>`
 🐟 **个人博客（Blog）：**`<a href="https://2404589803.github.io/My-blog/" target="_blank">`我的博客 `</a>`
 
-<img align="right" width=300px alt="Intro" src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" />
-
-> `<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">`&nbsp;***Talking about Personal Stuffs:***
-
+- `<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">`&nbsp;***Talking about Personal Stuffs:***
 - `<img src="https://media.giphy.com/media/j1sGG7gbue5o2gS31X/giphy.gif" width="30px">`&nbsp;Pronouns: ***he*** or ***Coderboy***😉
 - `<img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">`&nbsp;I’m currently learnning on Programming、LLM（AI）、Math...
 - `<img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">`&nbsp;I’m looking to collaborate in an Open - Source Project `(newbie)` 🤝...
