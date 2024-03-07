@@ -12,15 +12,6 @@
 📰**学术主页(academic homepage)：**`<a href="https://junfeng-xiao.vercel.app/" target="_blank">`junfeng xiao `</a>`
 🐟 **个人博客（Blog）：**`<a href="https://2404589803.github.io/My-blog/" target="_blank">`我的博客 `</a>`
 
-- `<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">`&nbsp;***Talking about Personal Stuffs:***
-- `<img src="https://media.giphy.com/media/j1sGG7gbue5o2gS31X/giphy.gif" width="30px">`&nbsp;Pronouns: ***he*** or ***Coderboy***😉
-- `<img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">`&nbsp;I’m currently learnning on Programming、LLM（AI）、Math...
-- `<img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">`&nbsp;I’m looking to collaborate in an Open - Source Project `(newbie)` 🤝...
-- `<img src="https://media.giphy.com/media/lleGybkEAdmbVE8cKt/giphy.gif" width="30px">`&nbsp;Ask me about anything, I am happy to help, only if the ball is in my court!
-- `<img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">`&nbsp;Fun-Fact: I've ***13 Reasons Why***▶️&nbsp;to live **Happy** & *Money* is a one of them...
-
-<hr>
-
 ### 👨‍💻 Languages and Tools
 
 [![pytorch](https://img.shields.io/badge/-pytorch-02569B?style=flat&logo=pytorch&link=https://github.com/hritik5102)](https://github.com/hritik5102)
