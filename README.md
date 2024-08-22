@@ -12,7 +12,7 @@
 📰 **学术主页(academic homepage)：**<a href="https://junfeng-xiao.vercel.app/" target="_blank"> junfeng xiao</a>
 
 
-🐟 **个人博客（Blog）：**<a href="https://2404589803.github.io/My-blog/" target="_blank"> 我的博客</a>
+🐟 **个人博客（Blog）：**<a href="https://na4ec0b6aem.feishu.cn/wiki/KsZxw7NuKiQnolkGm5icawl9nrg" target="_blank"> 我的博客</a>
 
 ### 👨‍💻 Languages and Tools
 
