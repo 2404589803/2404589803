@@ -30,7 +30,7 @@
         学术主页 / Academic Homepage
       </td>
       <td>
-        <a href="" target="_blank">
+        <a href="https://academic-portfolio-red.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Researcher-junfeng_xiao-2EC4B6?style=for-the-badge&logo=Researcher&logoColor=white"/>
         </a>
       </td>
