@@ -16,16 +16,16 @@
 
 <div align="center">
   <a href="mailto:jimt40395@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jimt40395%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&color=00B8D4"/>
+    <img src="https://img.shields.io/badge/Gmail-jimt40395%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://twitter.com/jimt40395">
-    <img src="https://img.shields.io/badge/Twitter-@jimt40395-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2"/>
+    <img src="https://img.shields.io/badge/X-%40jimt40395-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/jimtom592_">
-    <img src="https://img.shields.io/badge/Instagram-@jimtom592__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F"/>
+    <img src="https://img.shields.io/badge/Instagram-%40jimtom592__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://huggingface.co/jimtom">
-    <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-jimtom-yellow?style=for-the-badge&logo=huggingface&logoColor=white&color=FFD93D"/>
+    <img src="https://img.shields.io/badge/🤗_HuggingFace-jimtom-FFD21E?style=for-the-badge"/>
   </a>
 </div>
 
@@ -74,11 +74,10 @@
 ### 🧠 AI & Deep Learning
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude%20AI-purple?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/智谱%20AI-2EC4B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0xIDE1aC0ydi0yaDJ2MnptMC00aC0yVjdoMnY2eiIvPjwvc3ZnPg==&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&color=EE4C2C"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&color=FF6F00"/>
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white&color=D00000"/>
+  <img src="https://img.shields.io/badge/Anthropic_Claude-7F52FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQyIDAtOC0zLjU4LTgtOHMzLjU4LTggOC04IDggMy41OCA4IDgtMy41OCA4LTggOHoiLz48L3N2Zz4=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/CUDA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Transformers-%23FF6F61.svg?style=for-the-badge&logo=huggingface&logoColor=white"/>
