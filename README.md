@@ -16,7 +16,7 @@
   <a href="https://www.instagram.com/jimtom592_">
     <img src="https://img.shields.io/badge/Instagram-%40jimtom592__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://huggingface.co/jimtom">
+  <a href="https://huggingface.co/roseking">
     <img src="https://img.shields.io/badge/🤗_HuggingFace-jimtom-FFD21E?style=for-the-badge"/>
   </a>
 </div>
