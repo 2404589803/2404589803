@@ -40,7 +40,7 @@
         个人博客 / Research Blog
       </td>
       <td>
-        <a href="https://na4ec0b6aem.feishu.cn/wiki/KsZxw7NuKiQnolkGm5icawl9nrg" target="_blank">
+        <a href="https://friendly-birth-6c0.notion.site/Fire-Flyer-AI-HPC-1a108f4392d6800a96a6e9ac55f7ac87" target="_blank">
           <img src="https://img.shields.io/badge/Blog-Technical_Notes-6C5CE7?style=for-the-badge&logo=Blog&logoColor=white"/>
         </a>
       </td>
