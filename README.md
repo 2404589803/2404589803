@@ -89,8 +89,9 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2404589803&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&card_width=495" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2404589803&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&card_width=495&langs_count=8" width="45%" />
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/2404589803?cardType=level&theme=tokyonight&preferLogin=false" />
+  </a>
 </div>
 
 <div align="center">
