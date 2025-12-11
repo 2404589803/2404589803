@@ -1,103 +1,78 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,16&height=200&section=header&text=AI%20Research%20Engineer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Exploring%20the%20Frontiers%20of%20Artificial%20Intelligence&descAlignY=55"/>
-</div>
+  <!-- Header -->
+  <h1 style="font-size: 50px; margin-bottom: 0;">Junfeng Xiao</h1>
+  <h3 style="margin-top: 10px; font-weight: normal;">AI Research Engineer & Deep Learning Specialist</h3>
+  <p style="font-style: italic; color: #666;">Pushing the Boundaries of Artificial Intelligence</p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+jimtom(Rose%E5%8C%97%E6%B8%AF);AI+%26+Deep+Learning+Researcher;Pushing+Boundaries+of+AI;Building+the+Future+with+Code" alt="Typing SVG" />
-</h1>
+  <br />
 
-<div align="center">
+  <!-- Social Links -->
   <a href="mailto:jimt40395@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-jimt40395%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/jimt40395">
-    <img src="https://img.shields.io/badge/X-%40jimt40395-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/jimtom592_">
-    <img src="https://img.shields.io/badge/Instagram-%40jimtom592__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://huggingface.co/roseking">
-    <img src="https://img.shields.io/badge/🤗_HuggingFace-jimtom-FFD21E?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/HuggingFace-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+    <a href="https://www.instagram.com/jimtom592_">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
-## 🧠 Academic Profile
+<br />
+<br />
 
-<div align="left">
-  <table>
+<!-- Featured Sections (Cards) -->
+<div align="center">
+  <table style="border: none; background-color: transparent;">
     <tr>
-      <td>
-        学术主页 / Academic Homepage
-      </td>
-      <td>
-        <a href="https://academic-portfolio-red.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Researcher-junfeng_xiao-2EC4B6?style=for-the-badge&logo=Researcher&logoColor=white"/>
+      <td align="center" width="300px">
+        <h3>🎓 Academic Homepage</h3>
+        <p>Explore my research publications, academic deliverables, and scholar profile.</p>
+        <a href="https://academic-portfolio-red.vercel.app/">
+          <img src="https://img.shields.io/badge/View_Portfolio-2EC4B6?style=for-the-badge&logo=google-scholar&logoColor=white"/>
         </a>
       </td>
-    </tr>
-    <tr>
-      <td>
-        个人博客 / Research Blog
-      </td>
-      <td>
-        <a href="https://friendly-birth-6c0.notion.site/junfeng-Xiao-s-AI-Knowledge-Blog-1a108f4392d68044ae8dc6db8e24493b" target="_blank">
-          <img src="https://img.shields.io/badge/Blog-Technical_Notes-6C5CE7?style=for-the-badge&logo=Blog&logoColor=white"/>
+      <td align="center" width="300px">
+        <h3>📝 Knowledge Blog</h3>
+        <p>Technical notes, deep learning insights, and AI research summaries.</p>
+        <a href="https://friendly-birth-6c0.notion.site/junfeng-Xiao-s-AI-Knowledge-Blog-1a108f4392d68044ae8dc6db8e24493b">
+          <img src="https://img.shields.io/badge/Read_Blog-6C5CE7?style=for-the-badge&logo=notion&logoColor=white"/>
         </a>
       </td>
     </tr>
   </table>
 </div>
 
-## 🤖 Tech Stack
+<br />
+<br />
+
+<!-- Tech Stack -->
+## 🛠️ Technical Expertise
 
 <div align="center">
 
-### 🧠 AI & Deep Learning
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-5A67D8?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CUDA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transformers-%23FF6F61.svg?style=for-the-badge&logo=huggingface&logoColor=white"/>
-</p>
-
-### 📊 Data Science & Analysis
-<p>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-%238CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white"/>
-</p>
-
-### 🛠️ Development Tools
-<p>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **AI & Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FF6F61?style=flat-square&logo=huggingface&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **Development** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
 </div>
 
-## 📈 GitHub Analytics
+<br />
+<br />
+
+<!-- GitHub Stats -->
+## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://git.io/awesome-stats-card">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/2404589803?cardType=level&theme=tokyonight&preferLogin=false" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=2404589803&show_icons=true&theme=gotham&hide_border=true&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2404589803&layout=compact&theme=gotham&hide_border=true" width="400" />
 </div>
-
+<br/>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=2404589803&color=58A6FF&style=for-the-badge&label=Profile+Views"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,16&height=100&section=footer&animation=twinkling"/>
+  <img src="https://komarev.com/ghpvc/?username=2404589803&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </div>
