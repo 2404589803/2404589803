@@ -25,17 +25,17 @@ Docker, MySQL, Git, and VS Code.
 
 <p>
   <a href="https://academic-portfolio-ayt.pages.dev/">
-    <img src="https://cdn.simpleicons.org/googlechrome/6B7280" alt="Academic homepage" width="18" height="18" />
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Academic homepage" width="18" height="18" />
     Academic homepage
   </a>
   ·
   <a href="https://friendly-birth-6c0.notion.site/junfeng-Xiao-s-AI-Knowledge-Blog-1a108f4392d68044ae8dc6db8e24493b">
-    <img src="https://cdn.simpleicons.org/notion/6B7280" alt="Research blog" width="18" height="18" />
+    <img src="https://cdn.simpleicons.org/notion/7C3AED" alt="Research blog" width="18" height="18" />
     Research blog
   </a>
   ·
   <a href="https://huggingface.co/roseking">
-    <img src="https://cdn.simpleicons.org/huggingface/6B7280" alt="Hugging Face" width="18" height="18" />
+    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" width="18" height="18" />
     Hugging Face
   </a>
 </p>
@@ -44,17 +44,17 @@ Docker, MySQL, Git, and VS Code.
 
 <p>
   <a href="mailto:jimt40395@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/6B7280" alt="Email" width="18" height="18" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="18" height="18" />
     Email
   </a>
   ·
   <a href="https://twitter.com/jimt40395">
-    <img src="https://cdn.simpleicons.org/x/6B7280" alt="X / Twitter" width="18" height="18" />
+    <img src="https://cdn.simpleicons.org/x/111827" alt="X / Twitter" width="18" height="18" />
     X / Twitter
   </a>
   ·
   <a href="https://www.instagram.com/jimtom592_/">
-    <img src="https://cdn.simpleicons.org/instagram/6B7280" alt="Instagram" width="18" height="18" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="18" height="18" />
     Instagram
   </a>
 </p>
