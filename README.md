@@ -24,7 +24,7 @@ Docker, MySQL, Git, and VS Code.
 ## Academic profile
 
 <p>
-  <a href="https://academic-portfolio-ayt.pages.dev/">
+  <a href="https://2404589803.github.io/junfengxiao/">
     <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Academic homepage" width="18" height="18" />
     Academic homepage
   </a>
