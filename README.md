@@ -29,11 +29,6 @@ Docker, MySQL, Git, and VS Code.
     Academic homepage
   </a>
   ·
-  <a href="https://friendly-birth-6c0.notion.site/junfeng-Xiao-s-AI-Knowledge-Blog-1a108f4392d68044ae8dc6db8e24493b">
-    <img src="https://cdn.simpleicons.org/notion/000000" alt="Research blog" width="18" height="18" />
-    Research blog
-  </a>
-  ·
   <a href="https://huggingface.co/roseking">
     <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" width="18" height="18" />
     Hugging Face
