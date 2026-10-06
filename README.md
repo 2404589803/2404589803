@@ -30,7 +30,7 @@ Docker, MySQL, Git, and VS Code.
   </a>
   ·
   <a href="https://friendly-birth-6c0.notion.site/junfeng-Xiao-s-AI-Knowledge-Blog-1a108f4392d68044ae8dc6db8e24493b">
-    <img src="https://cdn.simpleicons.org/notion/7C3AED" alt="Research blog" width="18" height="18" />
+    <img src="https://cdn.simpleicons.org/notion/000000" alt="Research blog" width="18" height="18" />
     Research blog
   </a>
   ·
