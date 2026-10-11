@@ -25,8 +25,8 @@ Docker, MySQL, Git, and VS Code.
 
 <p>
   <a href="https://2404589803.github.io/junfengxiao/">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Academic homepage" width="18" height="18" />
-    Academic homepage
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Junfeng Xiao's Academic Site" width="18" height="18" />
+    Junfeng Xiao's Academic Site
   </a>
   ·
   <a href="https://junfeng-xiao.notion.site/ebd//ead3dc15760c4b56b6ea74f911237d53">
