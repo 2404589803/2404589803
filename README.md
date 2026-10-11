@@ -30,6 +30,7 @@ Docker, MySQL, Git, and VS Code.
   </a>
   ·
   <a href="https://junfeng-xiao.notion.site/ebd//ead3dc15760c4b56b6ea74f911237d53">
+    <img src="https://cdn.simpleicons.org/notion/000000" alt="Notion" width="18" height="18" />
     Notion profile
   </a>
   ·
