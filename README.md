@@ -29,6 +29,10 @@ Docker, MySQL, Git, and VS Code.
     Academic homepage
   </a>
   ·
+  <a href="https://junfeng-xiao.notion.site/ebd//ead3dc15760c4b56b6ea74f911237d53">
+    Notion profile
+  </a>
+  ·
   <a href="https://huggingface.co/roseking">
     <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" width="18" height="18" />
     Hugging Face
